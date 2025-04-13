@@ -1,0 +1,433 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Romance TV" tvg-name="Romance TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/26147f4735983c4f20ad71c01ba95f25b1a7ccc7.png" group-title="Germany" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",Romance TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2937299004.m3u8
+
+#EXTINF:-1 tvg-id="Romance TV" tvg-name="Romance TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/26147f4735983c4f20ad71c01ba95f25b1a7ccc7.png" group-title="Germany" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",Romance TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2747900754.m3u8
+
+#EXTINF:-1 tvg-id="Heimatkanal" tvg-name="Heimatkanal" tvg-logo="http://ngiss.t-online.de/cm1s/media/daabe8d88933d58ca50ef01e692058fe39759627.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Heimatkanal
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3743017750.m3u8
+
+#EXTINF:-1 tvg-id="Heimatkanal" tvg-name="Heimatkanal" tvg-logo="http://ngiss.t-online.de/cm1s/media/daabe8d88933d58ca50ef01e692058fe39759627.png" group-title="Germany"  http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Heimatkanal
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/482977403.m3u8
+
+#EXTINF:-1 tvg-id="Silverline" tvg-name="Silverline" tvg-logo="https://live.tvspielfilm.de/api/cms//images/5f568ea1-33d6-42ac-a058-7c99bc880b6b.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Silverline
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1165783977.m3u8
+
+#EXTINF:-1 tvg-id="Silverline" tvg-name="Silverline" tvg-logo="https://live.tvspielfilm.de/api/cms//images/5f568ea1-33d6-42ac-a058-7c99bc880b6b.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Silverline
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1235644615.m3u8
+
+#EXTINF:-1 tvg-id="SAT.1 emotions" tvg-name="SAT.1 emotions" tvg-logo="http://ngiss.t-online.de/cm1s/media/fb8cf407e719419c47b394d4307cb3e7aa16c4ae.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SAT.1 emotions
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1294512806.m3u8
+
+#EXTINF:-1 tvg-id="SAT.1 emotions" tvg-name="SAT.1 emotions" tvg-logo="http://ngiss.t-online.de/cm1s/media/fb8cf407e719419c47b394d4307cb3e7aa16c4ae.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SAT.1 emotions
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2454124205.m3u8
+
+#EXTINF:-1 tvg-id="kabel eins classics" tvg-name="kabel eins classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/3d6c4e11c8058b35f0726c1e25ab1b391a2ada75.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Kabel Eins CLASSICS
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/423558065.m3u8
+
+#EXTINF:-1 tvg-id="kabel eins classics" tvg-name="kabel eins classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/3d6c4e11c8058b35f0726c1e25ab1b391a2ada75.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Kabel Eins CLASSICS
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1555582113.m3u8
+
+#EXTINF:-1 tvg-id="CRIME + INVESTIGATION" tvg-name="CRIME + INVESTIGATION" tvg-logo="http://ngiss.t-online.de/cm1s/media/98c3430141aaf756c564aedafebb36d0258f34c1.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CRIME + INVESTIGATION
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1346022487.m3u8
+
+#EXTINF:-1 tvg-id="CRIME + INVESTIGATION" tvg-name="CRIME + INVESTIGATION" tvg-logo="http://ngiss.t-online.de/cm1s/media/98c3430141aaf756c564aedafebb36d0258f34c1.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CRIME + INVESTIGATION
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/4240478721.m3u8
+
+#EXTINF:-1 tvg-id="RTL Crime" tvg-name="RTL Crime" tvg-logo="http://ngiss.t-online.de/cm1s/media/fda6a6827c4ba695a264061adc0a8813eb83afa7.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",RTL Crime
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2364963583.m3u8
+
+#EXTINF:-1 tvg-id="RTL Crime" tvg-name="RTL Crime" tvg-logo="http://ngiss.t-online.de/cm1s/media/fda6a6827c4ba695a264061adc0a8813eb83afa7.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",RTL Crime
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/4064931426.m3u8
+
+#EXTINF:-1 tvg-id="13th Street Universal" tvg-name="13th Street Universal" tvg-logo="http://ngiss.t-online.de/cm1s/media/668cd4d06f6981b82841f40fad42bc350babb056.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",13th Street Universal
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3854738303.m3u8
+
+#EXTINF:-1 tvg-id="13th Street Universal" tvg-name="13th Street Universal" tvg-logo="http://ngiss.t-online.de/cm1s/media/668cd4d06f6981b82841f40fad42bc350babb056.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",13th Street Universal
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1936179383.m3u8
+
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/1994bd733a17fbcd32d1d78dc43b28c362776f5b.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Universal
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3882504973.m3u8
+
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/1994bd733a17fbcd32d1d78dc43b28c362776f5b.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Universal
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/269260313.m3u8
+
+#EXTINF:-1 tvg-id="The HISTORY Channel" tvg-name="The HISTORY Channel" tvg-logo="http://ngiss.t-online.de/cm1s/media/c991f75a9b93fb49233fe78cbcc37007d99e01ad.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",The HISTORY Channel
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/4106953987.m3u8
+
+#EXTINF:-1 tvg-id="The HISTORY Channel" tvg-name="The HISTORY Channel" tvg-logo="http://ngiss.t-online.de/cm1s/media/c991f75a9b93fb49233fe78cbcc37007d99e01ad.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",The HISTORY Channel
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/4013755273.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.HD.de" tvg-name="Discovery.HD.de" tvg-logo="http://ngiss.t-online.de/cm1s/media/6e522d9ae4b2a9a8f686281f7d3adff2d8862ee3.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Discovery HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3051100732.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.HD.de" tvg-name="Discovery.HD.de" tvg-logo="http://ngiss.t-online.de/cm1s/media/6e522d9ae4b2a9a8f686281f7d3adff2d8862ee3.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Discovery HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3099080474.m3u8
+
+#EXTINF:-1 tvg-id="Sky Krimi" tvg-name="Sky Krimi" tvg-logo="http://ngiss.t-online.de/cm1s/media/2092514be53beb3a7d0b25a95db91ed27c707c8b.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Krimi
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1869613335.m3u8
+
+#EXTINF:-1 tvg-id="Sky Krimi" tvg-name="Sky Krimi" tvg-logo="http://ngiss.t-online.de/cm1s/media/2092514be53beb3a7d0b25a95db91ed27c707c8b.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Krimi
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2355208571.m3u8
+
+#EXTINF:-1 tvg-id="sky one" tvg-name="sky one" tvg-logo="http://ngiss.t-online.de/cm1s/media/1a2ed987272b88d35770eae839376b8807836a84.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",sky one
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1751787800.m3u8
+
+#EXTINF:-1 tvg-id="sky one" tvg-name="sky one" tvg-logo="http://ngiss.t-online.de/cm1s/media/1a2ed987272b88d35770eae839376b8807836a84.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",sky one
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2760602887.m3u8
+
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/e9fd1abc76e3b402cf5ae4f65bf6798741cd214e.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Atlantic HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2340670204.m3u8
+
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/e9fd1abc76e3b402cf5ae4f65bf6798741cd214e.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Atlantic HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3714049053.m3u8
+
+#EXTINF:-1 tvg-id="Sky Cinema Highlights HD" tvg-name="Sky Cinema Highlights HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/fac7ce5d53b31cab6f240ec100656f2c3e099dba.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Cinema Highlights HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1723046465.m3u8
+
+#EXTINF:-1 tvg-id="Sky Cinema Highlights HD" tvg-name="Sky Cinema Highlights HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/fac7ce5d53b31cab6f240ec100656f2c3e099dba.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Cinema Highlights HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/253687979.m3u8
+
+#EXTINF:-1 tvg-id="Sky Cinema Action HD" tvg-name="Sky Cinema Action HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Cinema Action HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/173341106.m3u8
+
+#EXTINF:-1 tvg-id="Sky Cinema Action HD" tvg-name="Sky Cinema Action HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Cinema Action HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1976246828.m3u8
+
+#EXTINF:-1 tvg-id="Sky Cinema Premiere HD" tvg-name="Sky Cinema Premiere HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/f8cce57b1346e70a50ba565675a380392e48f598.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Cinema Premiere HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/4265879600.m3u8
+
+#EXTINF:-1 tvg-id="Sky Cinema Premiere HD" tvg-name="Sky Cinema Premiere HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/f8cce57b1346e70a50ba565675a380392e48f598.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Cinema Premiere HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/4117277461.m3u8
+
+#EXTINF:-1 tvg-id="Sky Cinema Classics HD" tvg-name="Sky Cinema Classics HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/14c205585d3d1c5728d0575c661dc0d12c340ef1.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Cinema Classics HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/185991845.m3u8
+
+#EXTINF:-1 tvg-id="Sky Cinema Classics HD" tvg-name="Sky Cinema Classics HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/14c205585d3d1c5728d0575c661dc0d12c340ef1.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Cinema Classics HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3111314189.m3u8
+
+#EXTINF:-1 tvg-id="Sky Cinema Family HD" tvg-name="Sky Cinema Family HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/4af8c51b0aae80d28cb887cd75fe15508aea515f.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Cinema Family HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2615245916.m3u8
+
+#EXTINF:-1 tvg-id="Sky Cinema Family HD" tvg-name="Sky Cinema Family HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/4af8c51b0aae80d28cb887cd75fe15508aea515f.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Cinema Family HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1091552264.m3u8
+
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="http://ngiss.t-online.de/cm1s/media/ea9846917902c635cd3c5b239bd2f0c5d23c0c98.png" group-title="SYFY" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SYFY
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2668658037.m3u8
+
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="http://ngiss.t-online.de/cm1s/media/ea9846917902c635cd3c5b239bd2f0c5d23c0c98.png" group-title="SYFY" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SYFY
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3764999351.m3u8
+
+#EXTINF:-1 tvg-id="Warner TV Comedy" tvg-name="Warner TV Comedy" tvg-logo="http://ngiss.t-online.de/cm1s/media/793f9b574904a15207169109b57f7b52979e9d14.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Warner TV Comedy
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/400663888.m3u8
+
+#EXTINF:-1 tvg-id="Warner TV Comedy" tvg-name="Warner TV Comedy" tvg-logo="http://ngiss.t-online.de/cm1s/media/793f9b574904a15207169109b57f7b52979e9d14.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Warner TV Comedy
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3673853973.m3u8
+
+#EXTINF:-1 tvg-id="Warner TV Film" tvg-name="Warner TV Film" tvg-logo="http://ngiss.t-online.de/cm1s/media/a4a10078c8d5e31bb59574f9fb4df3ae7d6f975b.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Warner TV Film
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3522719651.m3u8
+
+#EXTINF:-1 tvg-id="Warner TV Film" tvg-name="Warner TV Film" tvg-logo="http://ngiss.t-online.de/cm1s/media/a4a10078c8d5e31bb59574f9fb4df3ae7d6f975b.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Warner TV Film
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2824983184.m3u8
+
+#EXTINF:-1 tvg-id="Warner TV Serie" tvg-name="Warner TV Serie" tvg-logo="http://ngiss.t-online.de/cm1s/media/ac63870aec09e2977583b416e2547620552e6c4d.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Warner TV Serie
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2506867048.m3u8
+
+#EXTINF:-1 tvg-id="Warner TV Serie" tvg-name="Warner TV Serie" tvg-logo="http://ngiss.t-online.de/cm1s/media/ac63870aec09e2977583b416e2547620552e6c4d.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Warner TV Serie
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/840655541.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Nature.de" tvg-name="Sky.Nature.de" tvg-logo="http://ngiss.t-online.de/cm1s/media/6ed382f8ee9fb14dd678d78dbe4d4d8c2f9ff0c5.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Nature
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2979356473.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Nature.de" tvg-name="Sky.Nature.de" tvg-logo="http://ngiss.t-online.de/cm1s/media/6ed382f8ee9fb14dd678d78dbe4d4d8c2f9ff0c5.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Nature
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3176094807.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Documentaries.de" tvg-name="Sky.Documentaries.de" tvg-logo="http://ngiss.t-online.de/cm1s/media/d678db56c8ea3648fe89d02a8b017a8b9a7d9f06.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Documentaries
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/758431347.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Documentaries.de" tvg-name="Sky.Documentaries.de" tvg-logo="http://ngiss.t-online.de/cm1s/media/d678db56c8ea3648fe89d02a8b017a8b9a7d9f06.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Documentaries
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2558892777.m3u8
+
+#EXTINF:-1 tvg-id="sky.replay.de" tvg-name="sky.replay.de" tvg-logo="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Replay
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2339352940.m3u8
+
+#EXTINF:-1 tvg-id="sky.replay.de" tvg-name="sky.replay.de" tvg-logo="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Replay
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2276831746.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Crime.de" tvg-name="Sky.Crime.de" tvg-logo="http://ngiss.t-online.de/cm1s/media/55f7af6e6da0e5fe88c98d17969ec3567cde00c6.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Crime
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/4064931426.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Showcase.de" tvg-name="Sky.Showcase.de" tvg-logo="http://ngiss.t-online.de/cm1s/media/09629b5939190f0df366f958f199d6d499b2c4bd.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",Sky Showcase
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3147780323.m3u8
+
